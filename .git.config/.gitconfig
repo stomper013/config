@@ -1,0 +1,6 @@
+[user]
+	name = hoangvh
+	email = hoang.vo@ilotusland.com
+	password = quangminh
+[credential]
+	helper = store
